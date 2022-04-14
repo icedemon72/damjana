@@ -17,7 +17,7 @@
 	<router-view />
 </template>
 
-<script>``
+<script>
 	export default {
         methods: {
 			myFunction(){ 
